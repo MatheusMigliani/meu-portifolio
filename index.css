@@ -1,0 +1,65 @@
+/*font and imports*/
+
+/*body*/
+body {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background:  center center / cover no-repeat, url(https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHRyeXNtd3l6OGR6NnZoOWk4OW85YjkxdHU3NnVpNW8ycDRuYWQxNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oEduStjWYGgvIJo0E/giphy.gif);
+    background-position: 58%;
+    background-repeat: no-repeat;
+    background-blend-mode:  source-over;
+    color: aliceblue;
+    background-color: #230244;
+}
+
+
+a {
+  color: inherit !important;
+  text-decoration: none;
+}
+
+/*header*/
+.navbar {
+  font-size: 1.5rem;
+  font-family: Rubik;
+  color: white;
+  background-color: #230244;
+}
+
+.navbar-brand {
+  font-size: 1.5rem;
+  padding-left: 2rem;
+}
+
+.textohero {
+  font-size: 6em;
+  font-weight: 800;
+  line-height: 0.8em;
+  font-family: Rubik, sans-serif;
+  text-transform: uppercase;
+  margin-right: 5rem;
+}
+.textoherosm {
+  font-size: 1.2em;
+  font-family: Rubik, sans-serif;
+  line-height: 1em;
+  text-transform: uppercase;
+  margin-right: 5rem;
+}
+.hero {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+.icons{
+    display: flex;
+}
