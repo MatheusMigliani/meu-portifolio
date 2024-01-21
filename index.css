@@ -212,7 +212,7 @@ i {
   text-align: center;
 }
 .card {
-  width: 60%;
+  width: auto;
   height: auto;
 
   border-radius: 16px;
